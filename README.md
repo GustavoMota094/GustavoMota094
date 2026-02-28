@@ -8,11 +8,11 @@ I am a passionate software developer from **Sorocaba, Brazil**, currently studyi
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Graduated in Systems Analysis (Fatec) & Cursando Software Engineering.
+- 🎓 **Education:** Graduated in Systems Analysis (Fatec) & Currently pursuing a degree in Software Engineering.
 - 💼 **Experience:** Former Backend Intern at **Sorocaba City Hall** (Infrastructure -> Dev).
 - 🤖 **Focus:** Microservices, RESTful APIs, DDD, and Generative AI (RAG/LLMs).
-- 🔭 **Currently:** Deepening knowledge in **AWS Cloud** and building a fullstack **Django** project.
-- 🧩 **Competitive Programming:** 2x Interfatecs participant (Qualified for Brazilian Olympiad).
+- 🔭 **Currently:** Learning about **AWS Cloud** and building a fullstack **Django** and **.NET** projects.
+- 🧩 **Competitive Programming:** 2x Interfatecs participant (Qualified for Brazilian OBI).
 
 ---
 
@@ -32,6 +32,7 @@ I am a passionate software developer from **Sorocaba, Brazil**, currently studyi
 **Databases**
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLServer](https://rodrigoesilva.wordpress.com/2011/04/29/microsoft-sql-server/)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -44,13 +45,14 @@ I am a passionate software developer from **Sorocaba, Brazil**, currently studyi
 | **AI Support Chatbot** | Python, RAG, LLM, Ollama | Led the end-to-end implementation of an AI chatbot for the City Hall to automate user support using local LLMs. |
 | **IT Support System** | C#, .NET 8/9, SQL | Developed RESTful APIs within a microservices architecture, applying DDD and Hexagonal Architecture concepts. |
 | **Freelancer Marketplace** | Node.js, Angular, Mongo | Final graduation project connecting freelancers with clients. |
+| **Retail ERP System** (WIP) | .NET, WPF, Postgres, DDD | **Solo Project:** Developing a comprehensive ERP for a lighting store to manage inventory, finance, and architectural projects using Microservices & DDD. |
 
 ---
 
 ### ⚡ Fun Facts & Interests
 
 *   🏎️ **Karting Pilot:** I'm an amateur kart pilot and automotive enthusiast. I apply the same discipline and precision from the track to my code.
-*   ✈️ **Aviation Enthusiast:** I have a great admiration for the aviation industry and its engineering marvels.
+*   ✈️ **Aviation Enthusiast:** I have a great admiration for the aviation industry.
 *   🌍 **Languages:** Native Portuguese, Advanced English (TOEIC Certified).
 
 ---
@@ -59,7 +61,4 @@ I am a passionate software developer from **Sorocaba, Brazil**, currently studyi
 
 <a href="https://www.linkedin.com/in/gustavo-mota-094" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:gustavo_mota094@outlook.com">
-<img src="https://img.shields.io/badge/email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
