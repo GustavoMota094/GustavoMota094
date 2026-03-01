@@ -11,7 +11,7 @@ I am a passionate software developer from **Sorocaba, Brazil**, currently studyi
 - 🎓 **Education:** Graduated in Systems Analysis (Fatec) & Currently pursuing a degree in Software Engineering.
 - 💼 **Experience:** Former Backend Intern at **Sorocaba City Hall** (Infrastructure -> Dev).
 - 🤖 **Focus:** Microservices, RESTful APIs, DDD, and Generative AI (RAG/LLMs).
-- 🔭 **Currently:** Learning about **AWS Cloud** and building a fullstack **Django** and **.NET** projects.
+- 🔭 **Currently:** Learning about **AWS Cloud** and building **Django** and **.NET** fullstack projects.
 - 🧩 **Competitive Programming:** 2x Interfatecs participant (Qualified for Brazilian OBI).
 
 ---
